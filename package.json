@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/sequelize": "^4.28.9",
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "sequelize": "^6.3.4",
+    "sequelize-cli": "^6.2.0"
+  }
+}
